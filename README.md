@@ -19,8 +19,8 @@
 
 ### 🔍 Most Used Languages
 
-| HTML  | Kotlin | CSS | PHP | TypeScript | JavaScript | Hack | Shell |
-|-------|--------|-----|-----|------------|------------|------|-------|
+| HTML  | JAVA | CSS | PHP | FLUTTER | JavaScript | Hack | Shell |
+|-------|------|-----|-----|---------|------------|------|-------|
 
 ---
 
